@@ -1,0 +1,37 @@
+.box1{
+    height: 700px;
+    width: 700px;
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color: rgb(149, 238, 238);
+}
+.box2{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(230, 230, 157);
+}
+.box3{
+ padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: pink;
+}
+.box4{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(208, 112, 208);
+}
+.box5{
+      padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: aquamarine;
+}
